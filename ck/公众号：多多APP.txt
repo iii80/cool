@@ -27,10 +27,6 @@
             "name": "🐹多多┃喵影视线路"
         },   
         {
-            "url": "http://itvbox.cc/云星日记",
-            "name": "🐹多多┃云星日记"
-        }, 
-        {
             "url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name": "🐹多多┃月光线路"
         },
