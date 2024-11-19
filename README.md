@@ -3,13 +3,16 @@
 > 公众号《多多影音》
 
 ## 请勿用于任何盈利目的及商业演示场合，免费收集汇总！
+一、长链接为主用、短链接为备用
 
-多仓接口： https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/room.json 
-多线路接口： https://cdn09022024.gitlink.org.cn/leevi0321/cool/raw/branch/main/duo.json 
+多仓接口长链接： https://bitbucket.org/xduo/cool/raw/main/room.json 
+多仓接口短链接： https://bit.ly/duocang
 
+多线路接口长链接： https://bitbucket.org/xduo/cool/raw/main/duo.json 
+多线路接口短链接： https://bit.ly/duoxian
 
 打赏VIP群加入方式：
-https://www.gitlink.org.cn/api/leevi0321/cool/raw/%E5%B0%8F%E7%A8%8B%E5%BA%8F.png?ref=main
+https://bitbucket.org/xduo/cool/raw/main/%E5%B0%8F%E7%A8%8B%E5%BA%8F.png
 ## 单线路、多线路、单仓、多仓解释
 * 单线路（接口）：适用于一切基于Box壳子二开的软件；
 
