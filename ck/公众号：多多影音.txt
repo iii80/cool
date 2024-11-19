@@ -51,7 +51,7 @@
             "name": "🚀多多┃老刘备线路"
         },
         {
-            "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json",
+            "url": "https://download.kstore.dev/download/2883/nzk/nzk0722.json",
             "name": "🚀多多┃D佬魔改"
         }
     ]
