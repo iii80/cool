@@ -6,10 +6,10 @@
 一、长链接为主用、短链接为备用
 
 多仓接口长链接： https://bitbucket.org/xduo/cool/raw/main/room.json 
-多仓接口短链接： https://bit.ly/duocang
+多仓接口短链接： http://214521.xyz/fast.json
 
 多线路接口长链接： https://bitbucket.org/xduo/cool/raw/main/duo.json 
-多线路接口短链接： https://bit.ly/duoxian
+多线路接口短链接： http://214521.xyz/duo.json
 
 打赏VIP群加入方式：
 https://bitbucket.org/xduo/cool/raw/main/%E5%B0%8F%E7%A8%8B%E5%BA%8F.png
