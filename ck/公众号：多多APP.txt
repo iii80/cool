@@ -5,11 +5,7 @@
         {
             "url": "http://肥猫.com",
             "name": "🐹多多┃肥猫线路"
-        },  
-        {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/001.json",
-            "name": "🐹多多┃分享者线路"
-        },                                 
+        },                                  
         {
             "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
             "name": "🐹多多┃南风线路"
@@ -45,6 +41,10 @@
         {
             "url": "http://kxrj.site:55/天天开心",
             "name": "🐹多多┃开心线路"
+        }, 
+        {
+            "url": "https://tv.xn--11x555b.top/svip",
+            "name": "🐹多多┃蜗牛线路"
         }, 
         {
             "url": "https://gitee.com/yiwu369/6758/raw/master/1.json",
