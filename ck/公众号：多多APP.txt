@@ -15,8 +15,8 @@
             "name": "🐹多多┃摸鱼线路"
         },
         {
-            "url": "https://d.kstore.dev/download/4637/yzhzjk.json",
-            "name": "🐹多多┃宇宙线路"
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🐹多多┃小米线路"
          },  
         {
             "url": "http://meowtv.cn/tv",
