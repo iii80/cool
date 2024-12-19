@@ -23,7 +23,7 @@
             "name": "🐹多多┃喵影视线路"
         },   
         {
-            "url": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
+            "url": "https://ghproxy.cn/https://raw.githubusercontent.com/guot55/yg/main/ygbox.json",
             "name": "🐹多多┃月光线路"
         },
         {
