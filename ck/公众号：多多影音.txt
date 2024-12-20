@@ -27,7 +27,7 @@
             "name": "🚀多多┃香雅情线路"
         }, 
         {
-            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json",
+            "url": "https://9877.kstore.space/FourD/api.json",
             "name": "🚀多多┃潇洒线路"
         }, 
         {
